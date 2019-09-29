@@ -3,3 +3,4 @@
 * Без ограничений
     * [Network](non-limit/network.md)
     * [Performance](non-limit/performance.md)
+    * [Coverage](non-limit/covarege.md)
